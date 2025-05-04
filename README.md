@@ -23,9 +23,6 @@ It includes a secure login system, student grade calculator, notes section with 
    - Perform simple arithmetic operations (`+`, `-`, `×`, `÷`).
    - Handles division by zero and invalid inputs.
 
-## 🖼️ Interface Screenshots
-
-> _You can add screenshots here for Login, Dashboard, Calculator, etc._
 
 ## 🛠️ Technologies Used
 
